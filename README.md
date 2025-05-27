@@ -5,3 +5,6 @@ Se eliminó la generación de muros para dejar un sandbox limpio; se amplió el 
 **Etapa 3**
 ![image](https://github.com/user-attachments/assets/6eea6580-2202-48ce-9400-6c6594170d13)
 
+**Final**
+
+![image](https://github.com/user-attachments/assets/a72dc04e-5361-4bd4-9ec3-0679ec6bd6bf)
